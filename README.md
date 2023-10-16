@@ -1,1 +1,4 @@
-# primary
+- 👋 Hi, I’m @Cursornut
+- 👀 I’m interested in Website creation 
+- 🌱 I’m currently learning HTML, CSS and  Javascript
+- 💌 Contact us on contact.cursornut@gmail.com
